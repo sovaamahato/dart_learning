@@ -1,9 +1,18 @@
 void main() {
-  //var
+  
   //int
+  //num
   //String
+  //bool
+
+  //final-
+  //const-
+//when you dont know what kind of data gonna store 
+  //var
   //dyanmic
 
+
+//difference betn var and dynamic :example
   var a=80;
   print(a);
 
