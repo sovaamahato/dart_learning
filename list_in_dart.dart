@@ -10,5 +10,17 @@ void main(){
   l1.forEach((i){
     print(i);
   });
+
+
+  //map
+    var map1={
+    "name":"sovaa",
+    "address":"KtM",
+    "age":21,
+    
+  };
+  print(map1["address"]);
+  
+  print(map1.keys);
   
 }
